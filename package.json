@@ -1,0 +1,30 @@
+{
+  "name": "ever-delegate",
+  "version": "0.0.0",
+  "description": "add event delegation to ever event emitters",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/ever-delegate.git"
+  },
+  "keywords": [
+    "ever",
+    "browserify",
+    "dom",
+    "event",
+    "delegate"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "devDependencies": {
+    "ever": "0.0.1",
+    "tape": "~0.1.5",
+    "cssauron-html": "0.0.1"
+  },
+  "dependencies": {
+    "ancestors": "0.0.1"
+  }
+}
